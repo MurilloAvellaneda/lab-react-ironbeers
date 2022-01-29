@@ -11,3 +11,45 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.home-img {
+  width:100%
+}
+
+#header {
+  background-color: rgb(61,196,252);
+}
+
+#header-img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 70px
+}
+
+.beer-options {
+  width: 80px;
+  padding: 0 50px;
+}
+
+.beers-container {
+  display: flex;
+  margin: 40px 0;
+  align-items: center;
+}
+
+Link {
+  text-decoration: none;
+}
+
+h1 {
+  color: black
+}
+
+h2 {
+  color: darkgray
+}
+
+h3 {
+  color: gray
+}
